@@ -16,3 +16,8 @@
   Then, Run the app 👇
   
      streamlit run streamlit_app.py
+
+# Packages Used:-
+    import streamlit as st
+    from PIL import Image
+    import joblib
