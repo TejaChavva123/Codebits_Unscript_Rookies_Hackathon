@@ -10,12 +10,19 @@
   
 # Steps involved in the analysis:
    1)Importing Library
+   
    2)Data Cleaning
+   
    3)Making different datasets for fraud and flagged fraud
+   
    4)Exploratory Data Analysis
+   
    5)Feature Engineering
+   
    6)Model Building
+   
    7)Evaluation of the model
+   
    8)Building an App
    
    
