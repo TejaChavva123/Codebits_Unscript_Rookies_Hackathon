@@ -40,6 +40,16 @@
     from PIL import Image
     import joblib
     
+# Classification_Report:-
+                precision    recall  f1-score   support
+
+                   0       1.00      0.57      0.72   1588602
+                   1       0.48      1.00      0.65    635441
+
+    accuracy                           0.69   2224043
+   macro avg       0.74      0.78      0.69   2224043
+weighted avg       0.85      0.69      0.70   2224043
+    
 # Image of the app:- 
   ![Streamlit_image](https://user-images.githubusercontent.com/83270390/150664350-92e4762c-6b27-4fa4-a35f-bb8264c5c9e9.png)
 
