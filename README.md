@@ -21,3 +21,8 @@
     import streamlit as st
     from PIL import Image
     import joblib
+    
+# Image of the app:- 
+  ![Streamlit_image](https://user-images.githubusercontent.com/83270390/150664350-92e4762c-6b27-4fa4-a35f-bb8264c5c9e9.png)
+
+  
