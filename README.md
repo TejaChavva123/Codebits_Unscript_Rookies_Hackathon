@@ -40,6 +40,9 @@
     from PIL import Image
     import joblib
     
+# HeatMap:-
+  ![heatmap](https://user-images.githubusercontent.com/83270390/150665329-45b76a22-4caf-4f21-ae19-fdff4e531385.png)
+    
 # Classification_Report:-
                         precision    recall  f1-score   support
 
