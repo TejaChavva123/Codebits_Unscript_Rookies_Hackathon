@@ -10,6 +10,9 @@
   
 # Installation:-
   To install all requirement packages for the app 👇
+  
      pip freeze > requirements.txt
+     
   Then, Run the app 👇
+  
      streamlit run streamlit_app.py
